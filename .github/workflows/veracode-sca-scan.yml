@@ -88,5 +88,4 @@ jobs:
           create-issues: false
           recursive: true
           allow-dirty: true
-          #optional#
           debug: true
